@@ -1,5 +1,6 @@
 ---
-title: "Rapport"
+title: "Blokkperiodisering - analyse av studiedesign" 
+format: pdf 
 editor: 
   markdown: 
     wrap: 72 
@@ -13,6 +14,13 @@ editor_options:
 bibliography: referanser.bib
 ---
 
-[@raastad2010]
+## Innledning
 
-nfej
+## Metode
+
+## Resultater
+
+## Diskusjon
+
+[@rønnestad2014] [@rønnestad2016] [@rønnestad2019] [@almquist2022]
+[@breil2010]
