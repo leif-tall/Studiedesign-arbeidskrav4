@@ -1,13 +1,18 @@
 ---
 title: "Rapport"
-format: pdf
 editor: 
   markdown: 
     wrap: 72 
     canonical: true 
-bibliography: referanser.bib
+output:
+  pdf_document:
+    citation_package: natbib
+    citation_style: referansestil/apa.csl
 editor_options: 
   chunk_output_type: console 
+bibliography: referanser.bib
 ---
 
-[@livak2001]
+[@raastad2010]
+
+nfej
