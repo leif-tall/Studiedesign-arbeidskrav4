@@ -1,0 +1,13 @@
+---
+title: "Rapport"
+format: pdf
+editor: 
+  markdown: 
+    wrap: 72 
+    canonical: true 
+bibliography: referanser.bib
+editor_options: 
+  chunk_output_type: console 
+---
+
+[@livak2001]
