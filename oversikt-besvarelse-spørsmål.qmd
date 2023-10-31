@@ -1,0 +1,40 @@
+---
+title: "Lage en oversikt"
+format: html
+editor: visual 
+bibliography: referanser.bib
+---
+
+## Introduksjon 
+
+I denne rapporten er det valgt ut 5 studier som tar for seg temaet blokkperiodisering av utholdenhetstrening [@rønnestad2014; @rønnestad2016; @rønnestad2019; @almquist2022; @breil2010]. Studiene er analysert, og spørsmål knyttet til metoden og spørsmål som studiene prøver å besvare sammenlignes. Til slutt gis det råd til videre studier, basert på de analyserte studiene.
+
+1.  Det overodnede problemet som alle studiene prøver å løse er om det er måter å organisere treningen på slik at den blir mer effektiv. Ved å konsentrere treningsstimuliet over kortere perioder er teorien at man får et større stimuli enn ved en mer tradisjonell periodisering. I en tradisjonell periodiseringsmodell så fordeler man gjerne hardøktene utover flere uker. Bakgrunnen for 4 av de analyserte studiene var at det fram til da var observert god effekt av å bolklegge høyintensiv trening, men det manglet studier med kontrollgrupper.
+
+2.   Spørsmål de prøver å besvare.
+
+    Rønnestad 2014:
+
+    Rønnestad 2016:
+
+    Rønnestad 2019:
+
+    Almqvist 2022:
+
+    Breil 2010:
+
+3.  Formulert som spørsmål eller hypotese.
+
+    Rønnestad 2014:
+
+    Rønnestad 2016:
+
+    Rønnestad 2019:
+
+    Almqvist 2022:
+
+    Breil 2010:
+
+4.  Forklaringer som forklarer om de ser det de forventet å observere.
+
+## Metode 
