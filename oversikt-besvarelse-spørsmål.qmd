@@ -5,36 +5,90 @@ editor: visual
 bibliography: referanser.bib
 ---
 
-## Introduksjon 
+## Introduksjon
 
-I denne rapporten er det valgt ut 5 studier som tar for seg temaet blokkperiodisering av utholdenhetstrening [@rønnestad2014; @rønnestad2016; @rønnestad2019; @almquist2022; @breil2010]. Studiene er analysert, og spørsmål knyttet til metoden og spørsmål som studiene prøver å besvare sammenlignes. Til slutt gis det råd til videre studier, basert på de analyserte studiene.
+I denne rapporten er det valgt ut 5 studier som tar for seg temaet blokkperiodisering av utholdenhetstrening [@rønnestad2014; @rønnestad2016; @almquist2022; @breil2010; @mcgawley2017]. Studiene er analysert, og spørsmål knyttet til metoden og spørsmål som studiene prøver å besvare sammenlignes. Til slutt gis det råd til videre studier, basert på de analyserte studiene.
 
-1.  Det overodnede problemet som alle studiene prøver å løse er om det er måter å organisere treningen på slik at den blir mer effektiv. Ved å konsentrere treningsstimuliet over kortere perioder er teorien at man får et større stimuli enn ved en mer tradisjonell periodisering. I en tradisjonell periodiseringsmodell så fordeler man gjerne hardøktene utover flere uker. Bakgrunnen for 4 av de analyserte studiene var at det fram til da var observert god effekt av å bolklegge høyintensiv trening, men det manglet studier med kontrollgrupper.
+1.  Det overordnede problemet som alle studiene prøver å løse er om det er måter å organisere treningen på slik at den blir mer effektiv for å forbedre prestasjon og/eller prestasjonsindikatorer. Ved å konsentrere treningsstimuliet over kortere perioder er teorien at man får et større stimuli enn ved en mer tradisjonell periodisering. I en tradisjonell periodiseringsmodell så fordeler man gjerne hardøktene eller trening med en gitt intensitet utover flere uker.
 
-2.   Spørsmål de prøver å besvare.
+    Problemet de prøver å løse er i prinsippet det samme i alle artiklene. Men det er litt ulik hvilke idretter studiene forsker på. To av artiklene undersøker effekten av BP for trente syklister
 
-    Rønnestad 2014:
+2.  Spørsmål de prøver å besvare.
 
-    Rønnestad 2016:
+```         
+Rønnestad 2014: 
+Bakgrunnen for studien i @rønnestad2014 av de analyserte studiene var at det fram til da var observert god effekt av å bolklegge høyintensiv trening (HIT), men det manglet studier med kontrollgrupper som trente like mye HIT. Spørmålet de ønsket å besvare var om det også var større effekt av blokkperiodsiering (BP) sammenlignet med en gruppe som trente like mye HIT men med tradisjonell periodisering (TP). 
 
-    Rønnestad 2019:
+Rønnestad 2016: 
 
-    Almqvist 2022:
 
-    Breil 2010:
+Rønnestad 2019:
+
+Almquist 2022:
+
+Breil 2010:
+```
 
 3.  Formulert som spørsmål eller hypotese.
 
     Rønnestad 2014:
 
+    Hypotese: BP vil få større forbedring i prestasjonsindikatorene VO2maks, laktatterskel, arbeidsøkonomi og prestasjon på en 40 min all-out sammenlignet med TP.
+
     Rønnestad 2016:
 
     Rønnestad 2019:
 
-    Almqvist 2022:
+    Almquist 2022:
 
     Breil 2010:
 
-4.  Forklaringer som forklarer om de ser det de forventet å observere.
+4.  Alternative forklaringer som forklarer det de forventer å observere.
 
-## Metode 
+5.  hva er logikken i hypotesen. Prøv å trekke en logisk linje mellom introduksjon og hypotese/spørsmål.
+
+    @rønnestad2014 trekker fram studier som viser effekt av blokkperiodisering også en cross over studie, men trekker fram problemet at det er vanskelig å konkludere med om det skyldes organisering av trening eller mer HIT i løpet av treningsperioden. Basert på studiene som nevnes og også at som del av samme studie observerte de etter 4 uker at det var større effekt for BP. Så tenker de seg at det er større effekt på alle variablene de er interessert i.
+
+## Metode
+
+6.  beskriv studiedesign, bruk hulley 2013, kap. 7-13.
+
+    Alle studiene er observasjonsstudier.
+
+    @rønnestad2014 er en prospektiv kohortstudie der man begynner med å samle inn et utvalg av forsøkspersoner. Ikke randomisert. Man måler karakteristikker ved hver forsøksperson og følger dem opp med målinger for å se resultatet. Prediktor variabelen her er organiseringen av treningen, fordi det er dette som skiller gruppene og som skal kunne forklare resultatene etter treningsperioden (hulley 2013).
+
+    @mcgawley2017 har en randomisert cross over studiedesign.
+
+7.  beskriv utvalg og om studien definerer populasjonen
+
+    @rønnestad2014 definerer utvalget til å representere populasjonen av godt trente syklister.
+
+8.  beskriv metoden for å rekruttere. rettferdiggjorde forfatterne utvalgstørrelsen. Regnet de ut en statistisk styrke
+
+    18 mannlige syklister meldte seg frivillig til studien [@rønnestad2014]. Står ikke noe videre om metode for å rekruttere. Men de har satt ulike nivåer på effektstørrelsen basert på (hopkins et al., 2019).
+
+9.  beskriv hvilke tester som ble brukt, hvordan var det gjennomført (rekkefølge på tester)
+
+    Testene var fordelt over to dager, der første dag var det først en trappetrinnstest for å beregne en laktatprofil og arbeidsøkonomi etterfulgt av 15 min pause og en trappetrinntest for beregning av VO2maks. Til slutt ble hbmasse bestemt. På dag to var det en 40 min all-out test. Ved post-test ble samme rekkefølge gjentatt. [@rønnestad2014]
+
+10. beskriv variablene i studien, hvilke variabler relateres til hypotese/spørsmål?
+
+    de fleste variablene som @rønnestad2014 beskriver relateres til hypotesen. Men hbmasse og wmax relateres ikke til hypotesen.
+
+11. hvilke statiske tester ble brukt
+
+    For å måle forskjell mellom gruppene ved baseline og treningsvolumet under studien så ble det brukt uparet students t-test. Først brukte de det de omtaler som konservative tilnærming med toveis analyse av varians (ANOVA) på pre-post verdier, og dette viste ingen forskjell mellom gruppene. På grunn av liten utvalgsstørrelse og forventning om små forskjeller hos disse godt trente syklistene, så analyserte de videre med t-test og gjennomsnittlig ES. De brukte paret t-test for å sjekke with-in group differences (VO2maks, Wmaks og 2 mmol watt). For å sjekke for relative forskjell mellom gruppene for de samme variablene så ble det gjort uparet t-test. For hver 4 ukers periode og sammenligning av trenigsdata ble det one-way repeated measures ANOVA og toveis repeterte målinger ANOVA for å sammenligne mellom gruppene.
+
+## Resultater 
+
+12. hovedresultater og svarte de på hypotese/spørsmålet sitt?
+
+    De besvarte hypotese og det var slik som forventet utenom at det viste tendens i favør av BP for 2mmol [@rønnestad2014]
+
+## Inferens
+
+13. Hva kunne de konkludere med?
+
+    @rønnestad2014 kunne konkludere med at blokkperiodisering for godt trente syklister kan være et godt alternativ (om populasjonen).
+
+14. Hva konkluderte de med om populasjonen?
