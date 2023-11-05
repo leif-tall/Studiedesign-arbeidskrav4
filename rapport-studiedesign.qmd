@@ -16,11 +16,219 @@ bibliography: referanser.bib
 
 ## Innledning
 
+I denne rapporten er det valgt ut 5 studier som tar for seg temaet
+blokkperiodisering av utholdenhetstrening [@rønnestad2014;
+@rønnestad2016; @almquist2022; @breil2010; @mcgawley2017]. Studiene er
+analysert, og likheter og ulikheter med studiene belyses i denne
+rapporten. Samtidig trekkes styrker og svakheter med dem fram. Til slutt
+gis det råd til videre studier, basert på de analyserte studiene. Måten
+analysen er gjort på er inspirert av QALMRI-metoden [@brosowsky2020].
+
+### Problem og hypotese
+
+Det overordnede problemet som alle studiene prøver å løse er om det er
+måter å organisere treningen på slik at den blir mer effektiv for å
+forbedre prestasjon og/eller prestasjonsindikatorer. Ved å konsentrere
+treningsstimuliet over kortere perioder er teorien at man får et større
+stimuli enn ved en mer tradisjonell periodisering. I en tradisjonell
+periodiseringsmodell så fordeler man gjerne hardøktene eller trening med
+en gitt intensitet utover flere uker.
+
+Problemet de prøver å løse er i prinsippet det samme i alle artiklene.
+De ønsker å gjøre noe med organiseringen av treningen eller trene på en
+bestemt måte som gjør at de forbedrer prestasjonen til populasjonen de
+har rekruttert et utvalg fra. Det er litt ulikt hvilke idretter studiene
+forsker på. @rønnestad2014 & @almquist2022 undersøker effekten av BP for
+trente syklister, mens to andre studier forsker på henholdsvis elite og
+junior langrennsløpere [@rønnestad2016; @mcgawley2017]. Studien som
+skiller seg mest fra de nevnte studiene på dette området har sett på en
+11 dagers treningsperiode med 15 økter med høyintensiv trening (HIT)
+[@breil2010]. Den sistnevnte ble også publisert før de andre studiene,
+og bakgrunnen for denne studien skiller seg tydelig fra de andre. Her
+prøvde de å løse utfordringen med å fokusere på å forbedre flere
+egenskaper samtidig. Utfordringen var at totalbelastningen kan bli for
+stor hvis man skal forbedre mange av egenskapene som kreves for å bli en
+allsidig alpinist samtidig. Denne studien er likevel tatt med i analysen
+her fordi den gir litt flere ulikheter, samt at den nevnes i alle de
+andre studiene. Studien kan sies å ha bidratt til at man fikk ideen om å
+finne ut om det var blokkperiodiseringen sin organisering i seg selv som
+kunne gi økte tilpasninger. Eller om det bare var mer HIT i
+intervensjonsgruppa som ga utslag.
+
+Spørsmålet studiene stiller seg er derimot noe mer ulikt med tanke på
+idrettene som det fokuseres på. @breil2010 prøver å besvare spørsmålet
+om HIT lagt opp som blokkperiodisering for junior alpinister er en
+effektiv metode for å forbedre VO$_{2maks}$. Det er formulert som en
+hypotese om at en 11 dagers mikrosyklus med 15 HIT-økter ville gi større
+forbedringer i VO$_{2maks}$, W$_{maks}$ og submaksimale verdier enn
+vanlig mikset trening. Kontrollgruppen gjennomførte bare sin vanlige
+trening. Spørsmålet i noen av de andre artiklene kan sammenfattes med;
+er det større effekt blokkperiodisering (BP), sammenlignet med en gruppe
+som trener like HIT men med tradisjonell periodisering [@rønnestad2014;
+@rønnestad2016; @mcgawley2017]. Alle disse studiene legger også fram en
+hypotese om at BP vil gi større forbedringer på det som kan sammenfattes
+til prestasjon og prestasjonsindikatorer. @almquist2022 derimot har ikke
+lagt frem noen hypotese. Det er heller et spørsmål om det er forskjell
+og eventuell hva forskjellen er mellom BP og TP dersom man også
+inkludere moderat intensiv trening (MIT). Dette er til kontrast fra den
+polarisert tilnærmingen som de andre studiene har, der MIT ikke blir
+særlig inkludert. I tillegg er den tradisjonelle periodiseringen lagt
+opp med gradvis økende belastning, mens den er mer lik fra uke til uke i
+de andre studiene.
+
+Alle studiene bruker introduksjonen til å gjøre rede for tidligere
+forskning på området og bruker dette til å begrunne hypotesene sine. I
+den nevnte artikkelen til @almquist2022, hvor det ikke er noen hypotese
+kan det ha med at det var få studier som tidligere hadde inkludert MIT
+og dermed blir det vanskeligere å begrunne hypotesen, eller så kan det
+bare være at spørsmål ga flere muligheter.
+
+Alle trekker en logisk linje mellom introduksjonen i artikkelen og
+hypotesen/spørsmålet. Eksempelvis så baserer @mcgawley2017 seg på at
+andre artikler har vist at BP kan gi ytterligere adaptasjoner
+sammenlignet med TP og overfører dette til å indusere en hypotese om sin
+populasjon som utvalget representerer [@rønnestad2014; @rønnestad2016].
+I dette tilfellet junior langrennsløpere, og hypotesen blir i tråd med
+de funnene som trekkes fram.
+
 ## Metode
+
+### Studiedesign
+
+Samtlige av de analyserte studiene er observasjonsstudier. Alle er
+prospektive kohortstudier der man måler karakteristikker ved hver
+forsøksperson og følger dem opp med målinger for å se resultatet.
+Prediktor variabelen er organiseringen av treningen, fordi det er dette
+som skiller gruppene og som potensielt skal forklare resultatene etter
+treningsperioden [@hulley2013]. En studie har overkryssningsdesign, der
+man er randomisert til om man starter som med BP eller TP. Men hver
+forsøkspersoner fungerer som sin egen kontrollperson [@mcgawley2017]. I
+de andre studiene ble gruppene matchet for VO$_{2maks}$ eller
+gjennomsnittlig effekt over 40 min [@rønnestad2016; @breil2010;
+@almquist2022]. Deretter randomiserte man til de to gruppene i to av
+studiene[@rønnestad2016; @almquist2022].
+
+Noen oppgir at deltakerne meldte seg frivillig [@rønnestad2014;
+@rønnestad2016], mens andre oppgir at de rekrutterte fra lokale
+sykkellag [@almquist2022], fra to spesialist skiskoler i Sverige
+[@mcgawley2017], og fra nasjonalt treningssenter [@breil2010]. 3 av
+studiene bestemte effektstørrelser, og de baserte seg alle på samme
+effektstørrelsen og antall deltakere som fullførte er henholdsvis 15, 19
+og 20 [@rønnestad2014; @rønnestad2016; @mcgawley2017].
+
+Alle studiene ønsker å ha forsøkspersoner som representerer godt trente
+utøvere i idretten det fokuseres på. De kategoriserer også alle
+forsøkspersonene sine som nettopp dette. Basert på dette kan vi si at de
+treffer populasjonene.
+
+### Statistikk
+
+Det viktigste er hvordan de har behandlet dataene der de sammenligner
+endring fra pre til post mellom gruppene. Sammenligninger ved baseline
+er noe ulikt, men velger bare å legge frem statistikk gir resultater i
+tråd med hovedessensen i hypotesen, om det er større endring ved BP. Ett
+fellestrekk med alle er at de bruker p\<0.05 som signifikansnivå. Toveis
+variansanalyse (ANOVA) med repeterte målinger går igjen i de aller
+fleste av studiene [@rønnestad2014; @rønnestad2016; @breil2010;
+@mcgawley2017]. Likevel er det noen ulike varianter av det og noen som
+gjorde andre analyser etterpå. @rønnestad2014 gjorde først toveis ANOVA
+på pre-post-verdier, og da var det ingen forskjell mellom gruppene.
+Derfor ble endring analysert videre med t-test og gjennomsnittlig
+effektstørrelse, begrunnet med liten utvalgsstørrelse og forventning om
+små forbedringer på det som var godt trente syklister. I en annen studie
+ble det bare brukt til å beskrive responser under submaksimale innsatser
+på rulleski, mens VO$_{2maks}$, W$_{maks}$ og effekt ved 4 mmol/L ble
+sammenlignet med uparet student t-test for å finne forskjell mellom
+gruppene. Nettopp disse variablene var med i hypotesen [@rønnestad2016].
+@breil2010 gjorde videre en Tukey\`s signifikans post hoc test for å
+bestemme signifikante forskjeller.
+
+Studien som skilte seg mest ut var den som brukte en mixed linear model
+med gruppe definert som fixed effects og rettet ved å ha pre-verdier som
+kovariat [@almquist2022]. Slikt gjøres gjerne i stedet for ANOVA når det
+er for store forskjeller i pre-nivået mellom gruppene, og derfor brukes
+pre-verdier som en kovariat i analysen.
+
+Så den statistiske tilnærmingen for å prøve å avkrefte nullhypotesen er
+relativt lik mellom alle de som har stilt en hypotese. Det som eventuelt
+beskrives i resultatkapittelet nedenfor er den alternative hypotesen de
+har bestemt.
 
 ## Resultater
 
+Som nevnt her det de resultatene som er de som direkte besvarer
+hypotesen som er i fokus i analysen. I @rønnestad2014 hadde BP en større
+relativ forbedring i VO$_{2maks}$ enn TP, og det som beskrives som en
+tendens til større forbedring av effekt ved laktatkonsentrasjon på 2
+mmol/L. For arbeidsøkonomi og gjennomsnittlig effektutvikling over 40
+min som også ble hypotisert å være bedre, så var gjennomsnittlig
+effektstørrelse av den relative endringen moderat.
+
+Også @rønnestad2016 fikk bekreftet den alternative hypotesen som var
+bestemt. Hypotesen deres var at det ville være større endring i måling
+av aerob effekt for BP. De observerte både større økning i W$_{maks}$ og
+effekt ved 4 mmol/L. BP økte VO$_{2maks}$, mens det forble uforandret i
+TP. Effektstørrelse på alle de nevnte variablene var moderat.
+
+Det var spesielt to studier som skilte seg ut ved at de ikke fant noe
+forskjell mellom gruppene på lignende variabler som allerede er
+beskrevet. Volum av røde blodceller og mengde kapillærer rundt type
+I-fibre økte signifikant mer i BP, uten noen andre gruppeforskjeller
+[@almquist2022]. I overkrysningsstudien var det heller ingen forskjell
+mellom responsen etter de to periodiseringsmodellene [@mcgawley2017]. Så
+det interessante med den sistnevnte studien er at de ikke fikk avkreftet
+nullhypotesen, så hypotesen de brukte stemte ikke.
+
+I studien på alpinistene så økte både relativ VO$_{2maks}$, relativ
+W$_{maks}$ og effekt ved ventilatorisk terskel 2 (samsvarer med 4
+mmol/L) i intervensjonsgruppa. Mens kontrollgruppa som trente som
+normalt hadde ingen endring etter treningsperioden.
+
 ## Diskusjon
 
-[@rønnestad2014] [@rønnestad2016] [@rønnestad2019] [@almquist2022]
-[@breil2010]
+Innledningsvis i diskusjonsdelen blir det bare bare en kort lagt noen
+mulige forklaringer til at to av studiene ikke nødvendigvis fant helt
+det de forventet. Mye av det forklares nok med studiedesignet til disse
+studiene. At det ikke var forskjell på de variablene som går igjen i
+studien til @almquist2022 kan ha flere årsaker. En årsaker som kan
+trekkes frem er at de brukte tradisjonell periodisering slik det ofte
+praktiseres med en økende belastning. De inkluderte også MIT og
+organiserte treningene i gruppene på en litt annen måte enn de andre
+studiene. I den andre studien der det ikke var noen forskjell i
+treningen til gruppene, så trente de ikke noe HIT. Det kan tenkes at det
+burde vært inkludert for å vedlikeholde eventuelle adaptasjoner. En
+annen forklaring med studiedesignet kan være at det er gjennomført på
+slutten av sesongen [@mcgawley2017]. Mange av de andre studiene er
+gjennomført i forberedelsesperioden utenom sesong [@rønnestad2014;
+@rønnestad2016; @breil2010]. Kanskje kan det også tenkes at 3 HIT-økter
+på ei uke er nok til å gi litt effekt av at det er relativt konsentrert,
+sammelignet med andre studier som har 2 HIT-økter per uke for
+kontrollgruppa.
+
+To av studiene konkluderer tydelig med at blokkperiodisering gir mer
+effekt på flere prestasjonsindikatorer for henholdsvis godt trente
+syklister og langrennsløpere [@rønnestad2014; @rønnestad2016]. De
+diskuterer hvordan dette kan implementeres i den spesifikke
+populasjonen, og avslutter med at det kan være et godt alternativ til
+andre tilnærminger å blokkperiodisere. En av dem peker på at det mangler
+studier på bolklegging over lengre tid, mer 6-12 måneder. Derfor
+anbefaler de at mer forskning burde gjøres over lengre tid
+[@rønnestad2016].
+
+@breil2010 konkluderer med at blokkperiodisering ser ut til å være
+lovende metode for å forbedre VO$_{2maks}$ for unge alpinister.
+Spørsmålet de likevel står litt igjen med er hva som er for mye, og hva
+som er nok. De diskuterer litt rundt hvordan deres treningsintervensjon
+var for å forbedre VO$_{2maks}$ sammenlignet med andre intervensjoner
+som har sett store forbedringer. Men for populasjonen de retter seg inn
+mot så er det også et spørsmål hva som er nok, fordi alpinister ønsker
+gjerne å vedlikeholde de andre egenskapene og det å stå på ski også. Men
+likevel så ble dette gjort utenom sesong, noe som gjorde det mer
+gjennomførtbart for aktive utøvere.
+
+I den ene av studiene som ikke fant noe som støttet hypotesen deres,
+konkluderer de med nettopp dette. Men de trekker frem at det kan være at
+hematologiske og kapillære adaptasjoner er forskjellige. Til tross for
+at dataene deres ikke støtter hypotesen, så poengterer de likevel at
+blokkperiodisering kan brukes som er verktøy i visse situasjoner i
+treningsplanleggingen [@almquist2022].
