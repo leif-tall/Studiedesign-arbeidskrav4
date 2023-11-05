@@ -232,3 +232,5 @@ hematologiske og kapillære adaptasjoner er forskjellige. Til tross for
 at dataene deres ikke støtter hypotesen, så poengterer de likevel at
 blokkperiodisering kan brukes som er verktøy i visse situasjoner i
 treningsplanleggingen [@almquist2022].
+
+## Referanseliste: 
