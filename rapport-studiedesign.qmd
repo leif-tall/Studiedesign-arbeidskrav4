@@ -10,8 +10,8 @@ output:
     citation_package: natbib
     citation_style: referansestil/apa.csl 
 editor_options: 
-  chunk_output_type: console
-bibliography: referanser.bib
+  chunk_output_type: console 
+bibliography: referanser.bib 
 ---
 
 ## Innledning
