@@ -8,9 +8,9 @@ editor:
 output:
   pdf_document:
     citation_package: natbib
-    citation_style: referansestil/apa.csl
+    citation_style: referansestil/apa.csl 
 editor_options: 
-  chunk_output_type: console 
+  chunk_output_type: console
 bibliography: referanser.bib
 ---
 
@@ -224,7 +224,7 @@ som har sett store forbedringer. Men for populasjonen de retter seg inn
 mot så er det også et spørsmål hva som er nok, fordi alpinister ønsker
 gjerne å vedlikeholde de andre egenskapene og det å stå på ski også. Men
 likevel så ble dette gjort utenom sesong, noe som gjorde det mer
-gjennomførtbart for aktive utøvere.
+gjennomførbart for aktive utøvere.
 
 I den ene av studiene som ikke fant noe som støttet hypotesen deres,
 konkluderer de med nettopp dette. Men de trekker frem at det kan være at
@@ -233,4 +233,4 @@ at dataene deres ikke støtter hypotesen, så poengterer de likevel at
 blokkperiodisering kan brukes som er verktøy i visse situasjoner i
 treningsplanleggingen [@almquist2022].
 
-## Referanseliste: 
+## Referanseliste:
